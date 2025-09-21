@@ -12,4 +12,4 @@ Run shell tasks asynchronously in Neovim and view output in a floating window.
 Using lazy.nvim
 
 ```lua
-{ 'yourname/taskrunner.nvim', config = function() require('taskrunner').setup() end }
+{ 'te55eract/taskrunner.nvim', config = function() require('taskrunner').setup() end }
